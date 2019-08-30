@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567060553 source:d:\users\sahil sanavulla\work\training2019\t0581\c++training\programs\revaluation\main.cpp
+	<iostream>
+	"revaluation.h"
+
+1567061435 d:\users\sahil sanavulla\work\training2019\t0581\c++training\programs\revaluation\revaluation.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1567061381 source:d:\users\sahil sanavulla\work\training2019\t0581\c++training\programs\revaluation\revaluation.cpp
+	"revaluation.h"
+

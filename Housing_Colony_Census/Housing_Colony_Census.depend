@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1564119979 source:d:\users\sahil sanavulla\work\training2019\t0581\c++training\programs\housing_colony_census\main.cpp
+	"Housing_Colony_Census.h"
+
+1564140411 d:\users\sahil sanavulla\work\training2019\t0581\c++training\programs\housing_colony_census\housing_colony_census.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+
+1564144263 source:d:\users\sahil sanavulla\work\training2019\t0581\c++training\programs\housing_colony_census\housing_colony_census.cpp
+	"Housing_Colony_Census.h"
+

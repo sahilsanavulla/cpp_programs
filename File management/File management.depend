@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1563793955 source:d:\users\sahil sanavulla\work\file management\main.cpp
+	"File management.h"
+
+1563794228 source:d:\users\sahil sanavulla\work\file management\file management.cpp
+	"File management.h"
+
+1563793691 d:\users\sahil sanavulla\work\file management\file management.h
+	<iostream>
+	<fstream>
+
+1563794228 source:d:\users\sahil sanavulla\work\training2019\t0581\c++training\programs\file management\file management.cpp
+	"File management.h"
+
+1563793691 d:\users\sahil sanavulla\work\training2019\t0581\c++training\programs\file management\file management.h
+	<iostream>
+	<fstream>
+
+1563793955 source:d:\users\sahil sanavulla\work\training2019\t0581\c++training\programs\file management\main.cpp
+	"File management.h"
+

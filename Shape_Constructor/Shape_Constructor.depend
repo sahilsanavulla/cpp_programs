@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1564056349 source:d:\users\sahil sanavulla\work\shape_constructor\main.cpp
+	"Shape_Constructor.h"
+
+1564056349 d:\users\sahil sanavulla\work\shape_constructor\shape_constructor.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1564055188 source:d:\users\sahil sanavulla\work\shape_constructor\shape_constructor.cpp
+	"Shape_Constructor.h"
+

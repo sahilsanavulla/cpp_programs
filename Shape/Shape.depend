@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1564045508 source:d:\users\sahil sanavulla\work\shape\main.cpp
+	"Shape.h"
+
+1564041709 d:\users\sahil sanavulla\work\shape\shape.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1564041709 source:d:\users\sahil sanavulla\work\shape\shape.cpp
+	"Shape.h"
+
+1564045508 source:d:\users\sahil sanavulla\work\c++\shape\main.cpp
+	"Shape.h"
+
+1564041709 d:\users\sahil sanavulla\work\c++\shape\shape.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1564041709 source:d:\users\sahil sanavulla\work\c++\shape\shape.cpp
+	"Shape.h"
+

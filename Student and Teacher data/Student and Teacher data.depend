@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1563954278 source:d:\users\sahil sanavulla\work\student and teacher data\main.cpp
+	"Student and Teacher data.h"
+
+1564049968 d:\users\sahil sanavulla\work\student and teacher data\student and teacher data.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1564051366 source:d:\users\sahil sanavulla\work\student and teacher data\student and teacher data.cpp
+	"Student and Teacher data.h"
+
+1563954278 source:d:\users\sahil sanavulla\work\c++\student and teacher data\main.cpp
+	"Student and Teacher data.h"
+
+1567069199 d:\users\sahil sanavulla\work\c++\student and teacher data\student and teacher data.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1567069494 source:d:\users\sahil sanavulla\work\c++\student and teacher data\student and teacher data.cpp
+	"Student and Teacher data.h"
+

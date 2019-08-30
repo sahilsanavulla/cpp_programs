@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1563263494 source:d:\users\sahil sanavulla\work\runtime polymorphism\main.cpp
+	"Runtime Polymorphism.h"
+
+1563266892 d:\users\sahil sanavulla\work\runtime polymorphism\runtime polymorphism.h
+	<iostream>
+
+1563262501 source:d:\users\sahil sanavulla\work\runtime polymorphism\runtime polymorphism.cpp
+	"Runtime Polymorphism.h"
+
+1563270324 source:d:\users\sahil sanavulla\work\training2019\t0581\c++training\programs\runtime polymorphism\runtime polymorphism.cpp
+	"Runtime Polymorphism.h"
+
+1563270324 d:\users\sahil sanavulla\work\training2019\t0581\c++training\programs\runtime polymorphism\runtime polymorphism.h
+	<iostream>
+
+1563270572 source:d:\users\sahil sanavulla\work\training2019\t0581\c++training\programs\runtime polymorphism\main.cpp
+	"Runtime Polymorphism.h"
+
